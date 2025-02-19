@@ -1,0 +1,188 @@
+{
+  "contact": [
+    {
+      "name": "Ahmet KAYAR",
+      "position": "Frontend Developer",
+      "company": "TechNova",
+      "phone": "5551234567",
+      "email": "ahmetkaya@technova.com",
+      "id": 2
+    },
+    {
+      "name": "Merve DEMİR",
+      "position": "Software Engineer",
+      "company": "CodeX",
+      "phone": "5449871234",
+      "email": "mervedemir@codex.io",
+      "id": 3
+    },
+    {
+      "name": "Zeynep YILMAZ",
+      "position": "UI/UX Designer",
+      "company": "PixelSoft",
+      "phone": "5533216789",
+      "email": "zeynepyilmaz@pixelsoft.com",
+      "id": 5
+    },
+    {
+      "name": "Burak SEYHAN",
+      "position": "Backend Developer",
+      "company": "SoftVision",
+      "phone": "5417893456",
+      "email": "burakak@softvision.net",
+      "id": 6
+    },
+    {
+      "name": "Elif KOÇ",
+      "position": "Mobile Developer",
+      "company": "AppMinds",
+      "phone": "5559081723",
+      "email": "elifkoc@appminds.io",
+      "id": 7
+    },
+    {
+      "name": "Hasan ŞEN",
+      "position": "DevOps Engineer",
+      "company": "CloudGate",
+      "phone": "5321112233",
+      "email": "hasansen@cloudgate.com",
+      "id": 8
+    },
+    {
+      "name": "Gizem ER",
+      "position": "Data Scientist",
+      "company": "DataGen",
+      "phone": "5457896541",
+      "email": "gizem.er@datagen.io",
+      "id": 9
+    },
+    {
+      "name": "Mehmet YAVUZ",
+      "position": "Machine Learning Engineer",
+      "company": "AI Works",
+      "phone": "5301234569",
+      "email": "mehmetyavuz@aiworks.net",
+      "id": 10
+    },
+    {
+      "name": "Fatma AKIN",
+      "position": "Cyber Security Analyst",
+      "company": "SecureNet",
+      "phone": "5547896543",
+      "email": "fatmaakin@securenet.com",
+      "id": 11
+    },
+    {
+      "name": "Emre TUNÇ",
+      "position": "System Administrator",
+      "company": "InfraSoft",
+      "phone": "5379991122",
+      "email": "emretunc@infrasoft.io",
+      "id": 12
+    },
+    {
+      "name": "Ayşe GÜLER",
+      "position": "QA Engineer",
+      "company": "TestPro",
+      "phone": "5552223344",
+      "email": "ayseguler@testpro.com",
+      "id": 13
+    },
+    {
+      "name": "Furkan ERSOY",
+      "position": "Product Manager",
+      "company": "InnovateTech",
+      "phone": "5316784321",
+      "email": "furkanersoy@innovatetech.net",
+      "id": 14
+    },
+    {
+      "name": "Cansu POLAT",
+      "position": "Business Analyst",
+      "company": "BizInsight",
+      "phone": "5509876543",
+      "email": "cansupolat@bizinsight.io",
+      "id": 15
+    },
+    {
+      "name": "İsmail KARACA",
+      "position": "Embedded Systems Engineer",
+      "company": "EmbedX",
+      "phone": "5301122334",
+      "email": "ismailkaraca@embedx.com",
+      "id": 16
+    },
+    {
+      "name": "Melis ÇETİN",
+      "position": "Blockchain Developer",
+      "company": "CryptoSoft",
+      "phone": "5553456789",
+      "email": "meliscetin@cryptosoft.io",
+      "id": 17
+    },
+    {
+      "name": "Efe DURAN",
+      "position": "Game Developer",
+      "company": "GameLab",
+      "phone": "5426781234",
+      "email": "efeduran@gamelab.com",
+      "id": 18
+    },
+    {
+      "name": "Serkan ÖZ",
+      "position": "Cloud Engineer",
+      "company": "CloudOps",
+      "phone": "5389874321",
+      "email": "serkanoz@cloudops.io",
+      "id": 19
+    },
+    {
+      "name": "Büşra YILDIZ",
+      "position": "IT Support Specialist",
+      "company": "HelpDeskPro",
+      "phone": "5558901234",
+      "email": "busrayildiz@helpdeskpro.com",
+      "id": 20
+    },
+    {
+      "name": "Ömer TAŞ",
+      "position": "Network Engineer",
+      "company": "NetSolutions",
+      "phone": "5367654321",
+      "email": "omertas@netsolutions.net",
+      "id": 21
+    },
+    {
+      "name": "Hakan YILDIRIM",
+      "position": "AI Researcher",
+      "company": "DeepMindAI",
+      "phone": "5304567890",
+      "email": "hakanyildirim@deepmindai.com",
+      "id": 22
+    },
+    {
+      "name": "Aslı CAN",
+      "position": "IoT Developer",
+      "company": "SmartTech",
+      "phone": "5532233445",
+      "email": "aslican@smarttech.io",
+      "id": 23
+    },
+    {
+      "name": "Mustafa ÖZTÜRK",
+      "position": "Software Architect",
+      "company": "CodeMaster",
+      "phone": "5556789012",
+      "email": "mustafaozturk@codemaster.com",
+      "id": 24
+    },
+    {
+      "name": "Selin Çevik",
+      "position": "fullstack developer",
+      "company": "Didiyos",
+      "phone": "055588899",
+      "email": "selincevk@gmail.com",
+      "id": 25
+    }
+  ]
+}
